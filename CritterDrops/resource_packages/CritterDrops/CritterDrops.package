@@ -1,0 +1,11 @@
+mod = [
+	"CritterDrops"
+]
+
+package = [
+	"resource_packages/CritterDrops/CritterDrops"
+]
+
+lua = [
+	"scripts/mods/CritterDrops/*"
+]

@@ -1,0 +1,11 @@
+mod = [
+	"MoreProxy"
+]
+
+package = [
+	"resource_packages/MoreProxy/MoreProxy"
+]
+
+lua = [
+	"scripts/mods/MoreProxy/*"
+]

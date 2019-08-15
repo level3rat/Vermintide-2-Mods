@@ -1,0 +1,11 @@
+mod = [
+	"DeselectTalents"
+]
+
+package = [
+	"resource_packages/DeselectTalents/DeselectTalents"
+]
+
+lua = [
+	"scripts/mods/DeselectTalents/*"
+]
